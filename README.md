@@ -13,6 +13,13 @@
 - Full-featured shopping cart with Paypal & credit/debit payments
 - Product rating & review system
 
+## Login Sample
+
+- Admin: admin@email.com, pw: 123456
+- Customer: jane@email.com, pw: 123456
+
+Note: Please do not change any information on the login details. Thank you!
+
 ## Running the App
 
 Your own keys must be given in env file. See .env.example file for reference. 
