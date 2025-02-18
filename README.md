@@ -2,16 +2,16 @@
 
 ## Tech Stack Used
 
-Frontend: React, Redux Toolkit, Bootstrap
-Backend: Node.js, Express.js, MongoDB
+- Frontend: React, Redux Toolkit, Bootstrap
+- Backend: Node.js, Express.js, MongoDB
 
 ## Features
 
-JWT Authentication stored in HTTP-only cookie
-Admin area to manage customers, products, & orders
-Product search, carousel, & pagination
-Full-featured shopping cart with Paypal & credit/debit payments
-Product rating & review system
+- JWT Authentication stored in HTTP-only cookie
+- Admin area to manage customers, products, & orders (CRUD operation)
+- Product search, carousel, & pagination
+- Full-featured shopping cart with Paypal & credit/debit payments
+- Product rating & review system
 
 ## Running the App
 
@@ -20,8 +20,8 @@ The app is also deployed using Render. [Website Link](https://ecommerce-hub.onre
 
 ## Install Dependencies
 
-npm install
+`npm install`
 
 ## To Run
 
-npm run dev
+`npm run dev`
